@@ -4,4 +4,5 @@
 #### a[1] : 每隔40ps改變 <br/>
 #### a[2] : 每隔80ps改變 <br/>
 #### a[3] : 每隔160ps改變 <br/>
-[!img](https://github.com/stevengigi/digital_design__prac/blob/main/four_bits_two_complement/wave.PNG)
+##### wave 
+![img](https://github.com/stevengigi/digital_design__prac/blob/main/four_bits_two_complement/wave.PNG)
