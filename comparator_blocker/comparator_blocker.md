@@ -3,4 +3,4 @@
 #### A=B --> AEB=1 </br>
 #### A<B --> ASB=1 </br>
 #### wave
-![img]()
+![img](https://github.com/stevengigi/digital_design__prac/blob/main/comparator_blocker/wave.PNG)
