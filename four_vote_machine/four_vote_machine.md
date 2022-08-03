@@ -4,4 +4,4 @@
 #### 當 I(4bits) 有大於兩個1個時候 為同意(O[0]=1) </br>
 
 ##### wave
-![img]()
+![img](https://github.com/stevengigi/digital_design__prac/blob/main/four_vote_machine/wave.PNG)
