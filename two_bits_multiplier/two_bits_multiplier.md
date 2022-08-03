@@ -5,4 +5,4 @@
 #### testA、testB 為input(4bits) 輸出為S1(8bits)
 
 ##### wave
-![imag]()
+![imag](https://github.com/stevengigi/digital_design__prac/blob/main/two_bits_multiplier/wave.PNG)
