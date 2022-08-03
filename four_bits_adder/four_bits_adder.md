@@ -3,4 +3,4 @@
 #### 當bits 無限擴大的時候 不能只用 布林代數來表達 </br>
 
 ##### wave </br>
-![img]()
+![img](https://github.com/stevengigi/digital_design__prac/blob/main/four_bits_adder/wave.PNG)
