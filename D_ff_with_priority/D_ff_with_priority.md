@@ -5,4 +5,4 @@
 #### LOAD=0 Dout=1 (載入控制) //第三優先
 
 ##### wave
-![img]()
+![img](https://github.com/stevengigi/digital_design__prac/blob/main/D_ff_with_priority/wave.PNG)
